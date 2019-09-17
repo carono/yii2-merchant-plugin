@@ -1,0 +1,34 @@
+{
+  "name": "carono/yii2-merchant-plugin",
+  "description": "",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aleksandr Kasyanov",
+      "email": "info@carono.ru",
+      "homepage": "https://carono.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "carono\\yii2merchant\\": "src"
+    }
+  },
+  "extra": {
+    "plugin": {
+      "class": "carono\yii2merchant\MerchantPlugin"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0",
+    "yiisoft/yii2": "2.0",
+    "carono/yii2-plugin": "@dev"
+  }
+}

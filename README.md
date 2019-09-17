@@ -1,0 +1,6 @@
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/carono/{PACKAGE}/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/carono/{PACKAGE}/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/carono/{PACKAGE}/v/stable)](https://packagist.org/packages/carono/{PACKAGE})
+[![Total Downloads](https://poser.pugx.org/carono/{PACKAGE}/downloads)](https://packagist.org/packages/carono/{PACKAGE})
+[![License](https://poser.pugx.org/carono/{PACKAGE}/license)](https://packagist.org/packages/carono/{PACKAGE})
+[![Build Status](https://travis-ci.org/carono/yii2-migrate.svg?branch=master)](https://travis-ci.org/carono/{PACKAGE})
+[![CodeFactor](https://www.codefactor.io/repository/github/carono/{PACKAGE}/badge)](https://www.codefactor.io/repository/github/carono/{PACKAGE})
