@@ -17,7 +17,7 @@
   },
   "extra": {
     "plugin": {
-      "class": "carono\yii2merchant\MerchantPlugin"
+      "class": "carono\\yii2merchant\\MerchantPlugin"
     }
   },
   "repositories": [
